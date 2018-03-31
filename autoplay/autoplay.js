@@ -1,7 +1,7 @@
 var audio = document.getElementById('audio');
 var text = document.getElementById('text');
 var resault = 0;
-var geturl = "https://music.163.com/song/media/outer/url?id = ";
+var geturl = "https://music.163.com/song/media/outer/url?id=";
 var ext = ".mp3"
 var music = [[],[]];
 list();
